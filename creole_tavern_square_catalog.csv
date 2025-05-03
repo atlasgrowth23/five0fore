@@ -1,0 +1,46 @@
+Token,Item Name,Variation Name,SKU,Description,Categories,Reporting Category,SEO Title,SEO Description,Permalink,GTIN,Square Online Item Visibility,Item Type,Weight (lb),Social Media Link Title,Social Media Link Description,Shipping Enabled,Self-serve Ordering Enabled,Delivery Enabled,Pickup Enabled,Price,Online Sale Price,Archived,Sellable,Contains Alcohol,Stockable,Auto Add Item to Check,Option Name 1,Option Value 1,Default Unit Cost,Default Vendor Name,Default Vendor Code,Current Quantity Atlas Growth,New Quantity Atlas Growth,Stock Alert Enabled Atlas Growth,Stock Alert Count Atlas Growth,Modifier Set - Spice Level,Station,Cook Time
+,Boudin Balls,Regular,,Crispy boudin balls served with Creole Mustard Aioli and Sticky Crystal Glaze.,Shareables,,,,,,,,,,,,,,,12.5,,,Y,,N,,,,,,,,,,,,Fryer,6
+,504 Wings,Buffalo Hot,,Crispy sauced chicken wings & flats.,Shareables,,,,,,,,,,,,,,,14.0,,,Y,,N,,,,,,,,,,,,Fryer,10
+,504 Wings,Smoky Sweet BBQ,,Crispy sauced chicken wings & flats.,Shareables,,,,,,,,,,,,,,,14.0,,,Y,,N,,,,,,,,,,,,Fryer,10
+,504 Wings,Garlic Parmesan,,Crispy sauced chicken wings & flats.,Shareables,,,,,,,,,,,,,,,14.0,,,Y,,N,,,,,,,,,,,,Fryer,10
+,Cajun Crawfish Pies,Regular,,Fun‑sized Cajun crawfish pies with étouffée sauce.,Shareables,,,,,,,,,,,,,,,13.0,,,Y,,N,,,,,,,,,,,,Fryer,8
+,Smoked Tuna Dip,Regular,,House smoked Gulf tuna dip with Cajun fried crackers.,Shareables,,,,,,,,,,,,,,,15.0,,,Y,,N,,,,,,,,,,,,cold_prep,0
+,Pineapple Fried Shrimp,Regular,,Crispy Gulf shrimp in pineapple glaze with Sriracha sesame salad.,Shareables,,,,,,,,,,,,,,,14.0,,,Y,,N,,,,,,,,,,,,Fryer,6
+,Clubhouse Nachos,Regular,,"Fresh chips, queso, black beans, salsa fresca, jalapeños, sour cream.",Shareables,,,,,,,,,,,,,,,15.5,,,Y,,N,,,,,,,,,,,,assembly,5
+,Just Chips and Salsa,Regular,,Fresh fried chips with house salsa.,Shareables,,,,,,,,,,,,,,,6.0,,,Y,,N,,,,,,,,,,,,assembly,2
+,Plus Bowl of Queso,Regular,,Add‑on bowl of pepperjack queso.,Shareables,,,,,,,,,,,,,,,8.0,,,Y,,N,,,,,,,,,,,,assembly,2
+,Just Chips and Queso,Regular,,Fresh chips with pepperjack queso.,Shareables,,,,,,,,,,,,,,,9.5,,,Y,,N,,,,,,,,,,,,assembly,3
+,The Hangover,Regular,,"Seasoned smashburger with cheddar, onion crisps, special sauce.",Burgers,,,,,,,,,,,,,,,18.0,,,Y,,N,,,,,,,,,,,,grill,12
+,The Classic Ride,Regular,,Classic smashburger with grilled onions and cheese choice.,Burgers,,,,,,,,,,,,,,,17.0,,,Y,,N,,,,,,,,,,,,grill,12
+,Electric Blue,Regular,,"Smashburger with bacon jam, blue cheese, bacon.",Burgers,,,,,,,,,,,,,,,18.5,,,Y,,N,,,,,,,,,,,,grill,12
+,Impossible Burger,Regular,,"Impossible patty with grilled onions, veggie cheddar.",Burgers,,,,,,,,,,,,,,,17.0,,,Y,,N,,,,,,,,,,,,grill,12
+,504 12” Pizza,Cheese,,"Crispy 12"" pizza, choice of topping.",Pizza & Flatbreads,,,,,,,,,,,,,,,17.0,,,Y,,N,,,,,,,,,,,,pizza_oven,14
+,504 12” Pizza,Pepperoni,,"Crispy 12"" pizza, choice of topping.",Pizza & Flatbreads,,,,,,,,,,,,,,,17.0,,,Y,,N,,,,,,,,,,,,pizza_oven,14
+,504 12” Pizza,Sausage,,"Crispy 12"" pizza, choice of topping.",Pizza & Flatbreads,,,,,,,,,,,,,,,17.0,,,Y,,N,,,,,,,,,,,,pizza_oven,14
+,Cheesy Garlic Bread,Regular,,"Mozzarella, parmesan & herb ricotta on garlic butter loaf.",Pizza & Flatbreads,,,,,,,,,,,,,,,12.5,,,Y,,N,,,,,,,,,,,,pizza_oven,8
+,Crazy Cajun Flatbread,Regular,,"Pulled pork, boudin, andouille, mozzarella, mustard BBQ sauce.",Pizza & Flatbreads,,,,,,,,,,,,,,,22.5,,,Y,,N,,,,,,,,,,,,pizza_oven,10
+,Barbecue Chicken Pizza,Regular,,"Texas mop sauce, goat cheese, jalapeños, bacon.",Pizza & Flatbreads,,,,,,,,,,,,,,,21.0,,,Y,,N,,,,,,,,,,,,pizza_oven,14
+,Barbecue Chicken Flatbread Pizza,Regular,,"Grilled chicken, Texas mop sauce, goat cheese, jalapeños, bacon.",Pizza & Flatbreads,,,,,,,,,,,,,,,21.0,,,Y,,N,,,,,,,,,,,,pizza_oven,10
+,Street Party Tacos Al Pastor,Regular,,"Pineapple pulled pork tacos with beans, salsa, sour cream.",Handhelds,,,,,,,,,,,,,,,16.0,,,Y,,N,,,,,,,,,,,,assembly,7
+,Crispy Fried Chicken Tenders Sandwich,Regular,,Open‑face fried chicken tenders on bun with comeback sauce.,Handhelds,,,,,,,,,,,,,,,16.0,,,Y,,N,,,,,,,,,,,,Fryer,8
+,Steak Frites,NY Strip,,"Grilled steak with onions, mushrooms, fries, Béarnaise aioli.",Entrees,,,,,,,,,,,,,,,38.0,,,Y,,N,,,,,,,,,,,,grill,15
+,Steak Frites,Filet Mignon,,"Grilled steak with onions, mushrooms, fries, Béarnaise aioli.",Entrees,,,,,,,,,,,,,,,46.0,,,Y,,N,,,,,,,,,,,,grill,15
+,Shrimp Monique,Regular,,"Bronzed Gulf shrimp, pasta, Cajun Alfredo.",Entrees,,,,,,,,,,,,,,,24.0,,,Y,,N,,,,,,,,,,,,grill,12
+,Gulf Catch Creole,Regular,,Seared local fillet over rice with étouffée.,Entrees,,,,,,,,,,,,,,,26.5,,,Y,,N,,,,,,,,,,,,grill,14
+,Golden Fried Seafood Platter,Regular,,"Fried shrimp, catfish, crawfish pies with fries.",Entrees,,,,,,,,,,,,,,,23.0,,,Y,,N,,,,,,,,,,,,Fryer,8
+,Make it a Double Seafood Platter,Regular,,Double portion fried seafood platter.,Entrees,,,,,,,,,,,,,,,46.0,,,Y,,N,,,,,,,,,,,,Fryer,12
+,Sand Wedge,Regular,,"Iceberg wedge, Creole Ranch, blue cheese, bacon, tomatoes.",Salads & Soups,,,,,,,,,,,,,,,13.0,,,Y,,N,,,,,,,,,,,,cold_prep,4
+,Classic Caesar Salad,Regular,,"Romaine, spring mix, croutons, lemony Caesar.",Salads & Soups,,,,,,,,,,,,,,,12.0,,,Y,,N,,,,,,,,,,,,cold_prep,4
+,Strawberries & Goat Cheese Salad,Regular,,"Spinach salad with strawberries, goat cheese, pecans.",Salads & Soups,,,,,,,,,,,,,,,14.0,,,Y,,N,,,,,,,,,,,,cold_prep,4
+,Chicken-Andouille Gumbo,Cup,,Rich chicken & andouille gumbo with rice.,Salads & Soups,,,,,,,,,,,,,,,8.0,,,Y,,N,,,,,,,,,,,,traditional_oven,3
+,Chicken-Andouille Gumbo,Bowl,,Rich chicken & andouille gumbo with rice.,Salads & Soups,,,,,,,,,,,,,,,12.0,,,Y,,N,,,,,,,,,,,,traditional_oven,3
+,Garlic Grilled Vegetables,Regular,,Seasonal vegetables grilled with garlic.,Sides,,,,,,,,,,,,,,,7.0,,,Y,,N,,,,,,,,,,,,grill,5
+,Crispy Kettle Fries,Regular,,Seasoned house fries.,Sides,,,,,,,,,,,,,,,6.0,,,Y,,N,,,,,,,,,,,,Fryer,5
+,House Green Salad,Regular,,Side salad with choice dressing.,Sides,,,,,,,,,,,,,,,8.0,,,Y,,N,,,,,,,,,,,,cold_prep,4
+,Chips and Salsa (Side),Regular,,Side order chips and salsa.,Sides,,,,,,,,,,,,,,,6.0,,,Y,,N,,,,,,,,,,,,assembly,2
+,Plus Bowl of Queso (Side),Regular,,Side queso.,Sides,,,,,,,,,,,,,,,8.0,,,Y,,N,,,,,,,,,,,,assembly,2
+,The Big Kid Burger,Regular,,"Kids burger with cheese, fries, cookie.",Kids,,,,,,,,,,,,,,,12.0,,,Y,,N,,,,,,,,,,,,grill,10
+,Kids Fried Chicken Tenders,Regular,,Kids fried chicken tenders with fries & cookie.,Kids,,,,,,,,,,,,,,,12.0,,,Y,,N,,,,,,,,,,,,Fryer,6
+,On the Green Key Lime Pie,Regular,,Kiwi key lime pie slice.,Desserts,,,,,,,,,,,,,,,8.0,,,Y,,N,,,,,,,,,,,,dessert,2
+,Very Berry Cheesecake,Regular,,Cheesecake with berry sauce & whipped cream.,Desserts,,,,,,,,,,,,,,,9.0,,,Y,,N,,,,,,,,,,,,dessert,2
+,Pecan Chocolate Chip Bread Pudding,Regular,,Bread pudding with Bananas Foster sauce & ice cream.,Desserts,,,,,,,,,,,,,,,12.0,,,Y,,N,,,,,,,,,,,,traditional_oven,4
